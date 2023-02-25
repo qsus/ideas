@@ -6,6 +6,9 @@ This idea originates from *Dan Ariely*s book *Predictably Irrational* (ISBN 978-
 
 Implementing self-control credit cards is difficult, because you either have to convince a bank to implement them or you need to somehow come to an agreement with some credit card manufacturer.
 
+## Gomoku bot
+for Discord, integrated with [playfive.net](http://www.playfive.net)<sup>[en](http://www.playfive.net/en/home)</sup>, possibly with [playok](https://www.playok.com/). Possibly with integrated API for bots from Gomocup (such as Rapfi, Yixin, Embryo) for playing against them or against people on Discord.
+
 
 ## Languages
 See [dedicated markdown file for my language ideas](languages.md).
